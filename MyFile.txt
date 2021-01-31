@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My file is good
+=======
+EU4 has good teacher 
+>>>>>>> d90fa1da58352294fd12858f172b597804f6b1dc
